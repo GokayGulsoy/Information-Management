@@ -17,3 +17,6 @@
 13. Query Optimization
 14. Project Presentations
 15. Final
+
+Textbooks can be found on: [Course textbooks](/Textbooks)
+Course project can be found on: [Course Project](/Project)
